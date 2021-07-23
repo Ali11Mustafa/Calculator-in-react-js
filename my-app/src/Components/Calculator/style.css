@@ -1,0 +1,41 @@
+.main-dev {
+  background-color: #6c63ff;
+  height: 400px;
+  width: 300px;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  border-radius: 20px;
+}
+.buttons {
+  padding: 20px;
+  background-color: #00bfa6;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.button1 {
+  width: 80px;
+  margin: 10px;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 900;
+  border-radius: 10px;
+}
+.button {
+  border-radius: 10px;
+  width: 80px;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: 900;
+  background-color: #00bfa6;
+  color: white;
+}
+
+.buttonc {
+  border-radius: 10px;
+  width: 80px;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: 900;
+  background-color: #f9a826;
+}
